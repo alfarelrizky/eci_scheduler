@@ -1,0 +1,45 @@
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe.config
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.vbproj.ResolveComReference.cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.awal.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.login.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.modelform.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.notifikasi.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.pop_up_adduser.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.vbproj.GenerateResource.Cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.application
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\bin\Debug\ECI APPLICATION.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.vbproj.ResolveComReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.awal.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Form2.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Form3.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.login.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.modelform.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.notifikasi.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.pop_up_adduser.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI_APPLICATION.UPLOAD_EXCEL.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.application
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ECI APPLICATION\ECI APPLICATION\obj\Debug\ECI APPLICATION.vbprojResolveAssemblyReference.cache

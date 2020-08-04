@@ -1,0 +1,16 @@
+[conn]
+server=localhost
+uid=root
+pwd=
+databases=prog_1
+port=3306
+[conn_pis2]
+server2=localhost
+uid2=root
+pwd2=
+databases2=pis_2
+port2=3306
+[file_format]
+file=\\localhost\ECI-FORMAT\FORMAT ECI.xlsx
+[user]
+nama=FAREL
